@@ -1,0 +1,27 @@
+body{
+    
+}
+
+#content {
+    background-color: goldenrod;
+    width: 960px;
+    margin: auto;
+    border-left: 10px double gold;
+    border-right: 10px double gold;
+    text-align: justify;
+}
+
+.bal{
+    float: left;
+    width: 400px;
+    border: 3px solid yellow;
+    background-color: lightgray;
+}
+
+a:link,:visited {
+    color: yellow;
+}
+
+a:hover{
+    color: red;
+}
